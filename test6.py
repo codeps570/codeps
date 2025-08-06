@@ -1,0 +1,1 @@
+the test 6 file is created
